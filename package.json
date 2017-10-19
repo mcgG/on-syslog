@@ -9,11 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/RackHD/on-syslog.git"
+    "url": "https://github.com/mcgG/on-syslog.git"
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "di": "git+https://github.com/RackHD/di.js.git",
+    "di": "git+https://github.com/mcgG/di.js.git",
     "lodash": "^3.10.1",
     "on-core": "git+https://github.com/mcgG/on-core.git"
   },
